@@ -1,4 +1,4 @@
-# 📊 Awesome-Banking
+# Awesome-Banking
 
 A curated list of **publicly available bank-related datasets** for research, analysis, and machine learning projects. All datasets are open-source and freely accessible.
 
